@@ -1,7 +1,10 @@
 ---
 title: "Leon's Portfolio"
 ---
-## Functional Programming 
+# Things to know
+- The main headers are clickable, they take you to the repository containing the project
+- [You can also click here to see all my repositories](https://github.com/leon-98?tab=repositories)
+## [Functional Programming](https://github.com/leon-98/Functional_programming_Space_Invaders)
 
 - The game I made is my own version of Space Invaders.
 - The game was made using TypeScript with functional programming style.
@@ -9,13 +12,13 @@ title: "Leon's Portfolio"
 - Below is the image of the game, you can click on it to give it a try.
 [![Rotation animation](/images/SpaceInvaders.PNG)](https://leon-98.github.io/SpaceInvaders.html)
 
-## Text-Based Roguelike game
+## [Text-Based Roguelike game](https://github.com/leon-98/Dinosaur_Game)
 
 - The game is about dinosaurs and the player can interact with them. 
 - This game was a group assignment of mine for a unit I took called "Object Oriented design and Implementation".
 - The game was made in Java with object-oriented programming style.
 
-## Data Structures & Algorithms
+## [Data Structures & Algorithms](https://github.com/leon-98/Algorithms-And-Data-Strucutre)
 
 - The data structures and algorithms are made in Python
 - Below are some of the projects I had made
