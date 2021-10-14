@@ -39,8 +39,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/">Notes on Programming Paradigms</a></div>
-      </nav></div>
+
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
