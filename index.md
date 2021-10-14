@@ -1,4 +1,6 @@
-Leon's Portfolio
+---
+title: "Leon's Portfolio"
+---
 ## Functional Programming 
 
 - The game I made is my own version of Space Invaders.
