@@ -1,4 +1,4 @@
-title: "FRP Asteroids"
+Leon's Portfolio
 ## Functional Programming 
 
 - The game I made is my own version of Space Invaders.
