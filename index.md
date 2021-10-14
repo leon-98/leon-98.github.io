@@ -7,7 +7,7 @@ title: "Leon's Portfolio"
 
 ## [Functional Programming](https://github.com/leon-98/Functional_programming_Space_Invaders)
 
-- The game I made is my own version of Space Invaders.
+- I made my own version of Space Invaders.
 - The game was made using TypeScript with functional programming style.
 - For the game, you can hover your mouse on the canvas to move, left click to use ability and pressing return will reset the game when it ends.
 - Below is the image of the game, you can click on it to give it a try.
