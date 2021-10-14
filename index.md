@@ -1,11 +1,5 @@
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
-title: "Notes on Programming Paradigms"
----
-
-## [Levels of Abstraction](/levelsofabstraction) 
+## [Functional Programming] 
 
 - Understand the motivation for different programming paradigms: to abstract machine operation into human understandable and composable programs
 - Understand the difference between *syntax*, the textual symbols and grammatical rules of a program, and *semantics*, the meaning of what is computed
