@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>FRP Asteroids | Tim’s code stuff</title>
+
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="FRP Asteroids" />
 <meta property="og:locale" content="en_US" />
