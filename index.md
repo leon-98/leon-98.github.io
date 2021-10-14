@@ -4,6 +4,7 @@ title: "Leon's Portfolio"
 # Things to know
 - The main headers are clickable, they take you to the repository containing the project
 - [You can also click here to see all my repositories](https://github.com/leon-98?tab=repositories)
+
 ## [Functional Programming](https://github.com/leon-98/Functional_programming_Space_Invaders)
 
 - The game I made is my own version of Space Invaders.
