@@ -14,9 +14,27 @@ title: "Leon's Portfolio"
 - The game is about dinosaurs and the player can interact with them. 
 - This game was a group assignment of mine for a unit I took called "Object Oriented design and Implementation".
 - The game was made in Java with object-oriented programming style.
-- Below is an image of how the game looks like.
 
 ## Data Structures & Algorithms
-- 
+
+- The data structures and algorithms are made in Python
+- Below are some of the projects I had made
+
+### Radix sort
+- Made a functiom that can find anagrams
+- Made a function that can find the best interval
+
+### Dynamic Programming
+-  Made a function that can make the best schedule for an athlete
+-  Made a  function for sales itinerary durinv the Covid-19 period
+
+### Trie
+- Made a function that can help researchers to be able to query a database for various different drug resistant gene sequences quickly.
+- Made a Open Reading Frames Finder which is used in molecular genetics
+
+### Graph algorithm
+- Made an implementation of dijakstra algorithm
+- Made a function  that can find the best trades for liquids using Bellman ford algorithm 
+
 
 
