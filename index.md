@@ -13,8 +13,7 @@
 <meta property="og:site_name" content="Tim’s code stuff" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="FRP Asteroids" />
-<script type="application/ld+json">
-{"headline":"FRP Asteroids","description":"Introduction Functional Reactive Programming (specifically the Observable/Observer pattern) allows us to capture asynchronous actions like user interface events in streams. These allow us to “linearise” the flow of control, avoid deeply nested loops, and process the stream with pure, referentially transparent functions.","url":"https://tgdwyer.github.io/asteroids/","@type":"WebPage","@context":"https://schema.org"}</script>
+
 <!-- End Jekyll SEO tag -->
 <link rel="shortcut icon" href="https://tgdwyer.github.io/favicon.ico" />
     <link rel="stylesheet" href="/assets/main.css">
