@@ -23,32 +23,7 @@ title: "Leon's Portfolio"
 - Applied object oriented programming which allows reusability of code and  for easy maintenance of code
 - Skills: Java, Object Oriented Design
 
-## [Data Structures & Algorithms](https://github.com/leon-98/Algorithms-And-Data-Strucutre)
 
-- The data structures and algorithms are made in Python
-- Below are some of the projects I had made
-
-### Radix sort
-- The implementation for radix sort that I made can be used for list of numbers and strings to sort them lexicographically
-- The radix sort that I implemented is also made stable 
-- My usage: find anagrams and the best interval
-
-
-### Dynamic Programming
-- I use it on problems that can be broken down into subproblems
-- Uses memoization, top-down approach
-- My usage: get the best schedule for an athlete and sales itinerary during the Covid-19 period
-
-### Trie
-- implemented it with Object Oriented Programming
-- Saves data at the leaf which helps to optimize the time complexity
-- Makes use of position of a string
-- My usage: Open Reading Frames Finder (used in molecular genetics) and Make a database that can query various different drug resistant gene sequences quickly
-
-### Graph algorithm
-- Made an implementation of dijkstra algorithm
-- Made an implementation of  Bellman ford algorithm using a matrix
-- My usage: find best trades for liquids (using Bellman ford algorithm)
 
 
 
