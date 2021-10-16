@@ -5,19 +5,23 @@ title: "Leon's Portfolio"
 - The main headers are clickable, they take you to the repository containing the project
 - [You can also click here to see all my repositories](https://github.com/leon-98?tab=repositories)
 
-## [Functional Programming](https://github.com/leon-98/Functional_programming_Space_Invaders)
+## [Space Invaders Game](https://github.com/leon-98/Functional_programming_Space_Invaders)
 
-- I made my own version of Space Invaders.
-- The game was made using TypeScript with functional programming style.
+- Developed a version of the  Space Invaders game using Functional Reactive Programming (FRP) techniques.
+- The game was implemented in TypeScript and uses  RxJS Observable streams to handle animation and user interaction.
+- The code also separates impure function from pure functions.
 - For the game, you can hover your mouse on the canvas to move, left click to use ability and pressing return will reset the game when it ends.
+- Skills: FRP techniques, TypeScript, RxJS
 - Below is the image of the game, you can click on it to give it a try.
 [![Rotation animation](/images/SpaceInvaders.PNG)](https://leon-98.github.io/SpaceInvaders.html)
 
 ## [Text-Based Roguelike game](https://github.com/leon-98/Dinosaur_Game)
 
+- Wrote a text-based roguelike game in Java and implemented it with object oriented design.
 - The game is about dinosaurs and the player can interact with them. 
-- This game was a group assignment of mine for a unit I took called "Object Oriented design and Implementation".
-- The game was made in Java with object-oriented programming style.
+- This game was a group assignment of mine for a unit I took called "Object Oriented design and Implementation" (FIT2099).
+- Applied object oriented programming which allows reusability of code and  for easy maintenance of code
+- Skills: Java, Object Oriented Design
 
 ## [Data Structures & Algorithms](https://github.com/leon-98/Algorithms-And-Data-Strucutre)
 
@@ -25,20 +29,26 @@ title: "Leon's Portfolio"
 - Below are some of the projects I had made
 
 ### Radix sort
-- Made a functiom that can find anagrams
-- Made a function that can find the best interval
+- The implementation for radix sort that I made can be used for list of numbers and strings to sort them lexicographically
+- The radix sort that I implemented is also made stable 
+- My usage: find anagrams and the best interval
+
 
 ### Dynamic Programming
--  Made a function that can make the best schedule for an athlete
--  Made a  function for sales itinerary durinv the Covid-19 period
+- I use it on problems that can be broken down into subproblems
+- Uses memoization, top-down approach
+- My usage: get the best schedule for an athlete and sales itinerary during the Covid-19 period
 
 ### Trie
-- Made a function that can help researchers to be able to query a database for various different drug resistant gene sequences quickly.
-- Made a Open Reading Frames Finder which is used in molecular genetics
+- implemented it with Object Oriented Programming
+- Saves data at the leaf which helps to optimize the time complexity
+- Makes use of position of a string
+- My usage: Open Reading Frames Finder (used in molecular genetics) and Make a database that can query various different drug resistant gene sequences quickly
 
 ### Graph algorithm
-- Made an implementation of dijakstra algorithm
-- Made a function  that can find the best trades for liquids using Bellman ford algorithm 
+- Made an implementation of dijkstra algorithm
+- Made an implementation of  Bellman ford algorithm using a matrix
+- My usage: find best trades for liquids (using Bellman ford algorithm)
 
 
 
